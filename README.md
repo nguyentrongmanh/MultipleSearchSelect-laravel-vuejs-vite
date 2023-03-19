@@ -2,7 +2,7 @@ Follow me on github [https://github.com/nguyentrongmanh](https://github.com/nguy
 
 ## Required enviroiment version
 
-$ php >= 8.1.x
+$ php >= 8.0.x
 $ node >= 16.x
 
 ## Installation
@@ -15,8 +15,6 @@ $ npm install
 $ php artisan key:generate
 # run database migration
 $ php artisan migrate
-# generate jwt secret key 
-$ php artisan jwt:secret
 ```
 ## Usage
 
