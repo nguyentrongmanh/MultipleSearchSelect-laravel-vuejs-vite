@@ -1,12 +1,10 @@
 {
-    "name": "codivores/laravel-twill-inertia",
     "type": "project",
-    "description": "Sample project using Laravel, Twill, Inertia, Vue3 Composition API, Vite, Tailwind.",
-    "keywords": ["framework", "laravel", "twill", "inertia", "vite"],
+    "description": "Sample project using Laravel, Inertia, Vue3 Composition API, Vite, Tailwind.",
+    "keywords": ["framework", "laravel", "inertia", "vite"],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
-        "area17/twill": "^2.0",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
